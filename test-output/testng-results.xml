@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-30T12:05:13 IST" name="Suite" finished-at="2022-04-30T12:05:55 IST" duration-ms="41581">
+    <groups>
+    </groups>
+    <test started-at="2022-04-30T12:05:13 IST" name="Test" finished-at="2022-04-30T12:05:55 IST" duration-ms="41581">
+      <class name="calculator.TestCases.Division">
+        <test-method is-config="true" signature="openChrome()[pri:0, instance:calculator.TestCases.Division@515aebb0]" started-at="2022-04-30T12:05:44 IST" name="openChrome" finished-at="2022-04-30T12:05:49 IST" duration-ms="4655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method signature="division()[pri:0, instance:calculator.TestCases.Division@515aebb0]" started-at="2022-04-30T12:05:49 IST" name="division" finished-at="2022-04-30T12:05:50 IST" duration-ms="798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method is-config="true" signature="closeMethod()[pri:0, instance:calculator.TestCases.Division@515aebb0]" started-at="2022-04-30T12:05:50 IST" name="closeMethod" finished-at="2022-04-30T12:05:50 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeMethod -->
+      </class> <!-- calculator.TestCases.Division -->
+      <class name="calculator.TestCases.Substraction">
+        <test-method is-config="true" signature="openChrome()[pri:0, instance:calculator.TestCases.Substraction@59309333]" started-at="2022-04-30T12:05:14 IST" name="openChrome" finished-at="2022-04-30T12:05:35 IST" duration-ms="20736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method signature="substraction()[pri:0, instance:calculator.TestCases.Substraction@59309333]" started-at="2022-04-30T12:05:35 IST" name="substraction" finished-at="2022-04-30T12:05:36 IST" duration-ms="1491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- substraction -->
+        <test-method is-config="true" signature="closeMethod()[pri:0, instance:calculator.TestCases.Substraction@59309333]" started-at="2022-04-30T12:05:36 IST" name="closeMethod" finished-at="2022-04-30T12:05:37 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeMethod -->
+      </class> <!-- calculator.TestCases.Substraction -->
+      <class name="calculator.TestCases.Addition">
+        <test-method is-config="true" signature="openChrome()[pri:0, instance:calculator.TestCases.Addition@37afeb11]" started-at="2022-04-30T12:05:37 IST" name="openChrome" finished-at="2022-04-30T12:05:41 IST" duration-ms="4525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method signature="addition()[pri:0, instance:calculator.TestCases.Addition@37afeb11]" started-at="2022-04-30T12:05:41 IST" name="addition" finished-at="2022-04-30T12:05:42 IST" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method is-config="true" signature="closeMethod()[pri:0, instance:calculator.TestCases.Addition@37afeb11]" started-at="2022-04-30T12:05:42 IST" name="closeMethod" finished-at="2022-04-30T12:05:44 IST" duration-ms="2379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeMethod -->
+      </class> <!-- calculator.TestCases.Addition -->
+      <class name="calculator.TestCases.Multiplication">
+        <test-method is-config="true" signature="openChrome()[pri:0, instance:calculator.TestCases.Multiplication@dd8ba08]" started-at="2022-04-30T12:05:50 IST" name="openChrome" finished-at="2022-04-30T12:05:54 IST" duration-ms="4197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method signature="multiplication()[pri:0, instance:calculator.TestCases.Multiplication@dd8ba08]" started-at="2022-04-30T12:05:54 IST" name="multiplication" finished-at="2022-04-30T12:05:55 IST" duration-ms="585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method is-config="true" signature="closeMethod()[pri:0, instance:calculator.TestCases.Multiplication@dd8ba08]" started-at="2022-04-30T12:05:55 IST" name="closeMethod" finished-at="2022-04-30T12:05:55 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeMethod -->
+      </class> <!-- calculator.TestCases.Multiplication -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

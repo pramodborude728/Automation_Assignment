@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+		<listener class-name="calculator.Utilities.Reporting" />
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="calculator.TestCases.Substraction"/>
+      <class name="calculator.TestCases.Addition"/>
+      <class name="calculator.TestCases.Division"/>
+      <class name="calculator.TestCases.Multiplication"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
